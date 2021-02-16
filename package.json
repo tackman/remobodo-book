@@ -1,0 +1,16 @@
+{
+  "name": "remobodo-book",
+  "description": "remobodo-book",
+  "version": "0.0.0",
+  "author": "off-box <tackman@tackman.info>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "next",
+    "vivliostyle-theme-dnd-5e-phb": "^0.1.1"
+  },
+  "license": "CC-BY-NC-ND-3.0",
+  "private": true
+}
