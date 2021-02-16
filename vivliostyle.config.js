@@ -7,6 +7,7 @@ module.exports = {
   // entryContext: './manuscripts', // default to '.' (relative to `vivliostyle.config.js`).
   entry: [
     'manuscript.md', // `title` is automatically guessed from the file (frontmatter > first heading).
+    'chapters/mtg.md',
     // {
     //   path: 'epigraph.md',
     //   title: 'Epigraph', // title can be overwritten (entry > file),
